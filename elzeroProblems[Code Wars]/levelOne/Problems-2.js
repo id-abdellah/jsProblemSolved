@@ -1,4 +1,4 @@
-/* Even or Odd */
+/* ================ Even or Odd ================ */
 
 function evenOrOdd(number) {
   return number % 2 === 0 ? 'even' : 'odd';
@@ -9,7 +9,7 @@ console.log(evenOrOdd(3)); // odd
 
 
 
-/* reverse a string */
+/* ================ reverse a string ================ */
 
 function reversString(str) {
   let reversedStr = '';
@@ -24,7 +24,7 @@ console.log(reversString('abcd')); // dcba
 
 
 
-/* Boolean To String */
+/* ================ Boolean To String ================ */
 
 function booleanToString(b) {
   // return String(b);
