@@ -18,6 +18,7 @@ console.log(strCount('', 'z')); // 0
 
 
 
+
 /* =============== function which return time in milliseconds (hours, minutes, seconds) =============== */
 
 function past(h, m, s) {
