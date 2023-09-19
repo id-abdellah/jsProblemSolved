@@ -18,20 +18,20 @@ Examples: (Input --> Output)
 
 /* ______________Solution 1 */
 
-function (array) {
+function unkn(array) {
   let newArr = [];
   for (let i = 0; i < array.length; i++) {
-    newArr.push(`${i+1}: ${array[i]}`)
+    newArr.push(`${i + 1}: ${array[i]}`)
   }
   return newArr
 }
 
 
 /* _______________Solution 2 */
-function (array) {
-  return array.map( (a, b) => { return `${b + 1}: ${a}`})
+function unkn2(array) {
+  return array.map((a, b) => { return `${b + 1}: ${a}` })
 }
 
 
 
-console.log([ "a", "b", "c", "d", "e", "f"]); // [ "1: a", "2: b", "3: c", "4: d", "5: e", "6: f"]
+console.log(["a", "b", "c", "d", "e", "f"]); // [ "1: a", "2: b", "3: c", "4: d", "5: e", "6: f"]
