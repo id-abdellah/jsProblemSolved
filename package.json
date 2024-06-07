@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "name": "jsproblemsolving",
+  "description": "",
+  "version": "1.0.0",
+  "main": "training.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/id-abdellah/jsProblemSolving.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/id-abdellah/jsProblemSolving/issues"
+  },
+  "homepage": "https://github.com/id-abdellah/jsProblemSolving#readme"
+}
